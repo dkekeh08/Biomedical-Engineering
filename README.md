@@ -8,7 +8,7 @@ Patellofemoral pain affects around 23% of the population, and a leading cause is
 
 ## How it works
 
-An iPhone 14 Pro is mounted on a commercial Össur CTi3 knee brace, 15 cm from the patella. Its LiDAR depth sensor tracks coloured pen marks on the patient's knee, while a rotary encoder in a bespoke hinge cap records the flexion angle through an Arduino. A Python script combines the two data streams to calculate patella shift across 0-90° of flexion, then exports the results to Excel.
+An iPhone 14 Pro is mounted on a commercial Össur CTi3 knee brace, 15 cm from the patella. The time-of-flight cameras in its Face ID system track coloured pen marks on the patient's knee, while a rotary encoder in a bespoke hinge cap records the flexion angle through an Arduino. A Python script combines the two data streams to calculate patella shift across 0-90° of flexion, then exports the results to Excel.
 
 ## Project stages
 
