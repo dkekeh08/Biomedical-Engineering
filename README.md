@@ -34,6 +34,9 @@ An iPhone 14 Pro is mounted on a commercial Össur CTi3 knee brace, 15 cm from t
 | [Initial design specification](Initial_Design.pdf) | The original stereo camera concept, covering the biomechanics and design requirements |
 | [Compliance and risk report](Complience.pdf) | Regulatory classification, FMEA and the resulting design changes |
 | [Patella position calculation](lateral%20patella%20position%20calculation.docx) | The maths behind the knee angle and patella position measurements |
+| [Group compliance report](Group_design_complience.pdf) | The prototype's design, classification, FMEA and test results, with the full code |
+| [Design file](Group_Design.pdf) | The full technical file: user guide, assembly, cleaning protocols, safety analysis, CAD, testing, code and data sheets |
+| [Group presentation](Group_Presentation.pdf) | Slides summarising the project, including the live demonstration |
 
 ## Status
 
