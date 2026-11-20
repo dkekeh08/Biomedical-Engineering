@@ -29,6 +29,10 @@ An iPhone 14 Pro is mounted on a commercial Össur CTi3 knee brace, 15 cm from t
 
 ## Documents
 
+Here are the key documents to look at, bare in mind each one had a strict page limit, therefore aesthetic formatting had to be sacrificed to get the content we wanted in
+
+The group presentation is a great place to see a quick top level summary of the project!
+
 | Document | Description |
 |---|---|
 | [Initial design specification](Initial_Design.pdf) | The original stereo camera concept, covering the biomechanics and design requirements |
